@@ -1687,9 +1687,15 @@ header .logo a {
     .intro-info img {
         height: 7.8rem;
         width: 7.8rem;
+        margin-left: 1rem;
     }
     .intro-info .lead {
         padding-left: 11rem;
+    }
+    .intro-info .lead-add {
+        text-align: left;
+        padding-left: 2rem;
+        margin-bottom: 0.5rem;
     }
     .about-content h3 {
         text-align: center;
