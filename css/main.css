@@ -1796,6 +1796,7 @@ header .logo a {
 }
 #resume .timeline-header h3 {
     margin-bottom: 0;
+    margin-left: -9rem;
 }
 #resume .timeline-header p {
     font-family: 'poppins-regular', sans-serif;
