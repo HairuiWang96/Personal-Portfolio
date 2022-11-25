@@ -1802,6 +1802,7 @@ header .logo a {
     font-family: 'poppins-regular', sans-serif;
     font-size: 1.6rem;
     color: #888888;
+    margin-left: -9rem;
 }
 #resume .timeline-content {
     margin-left: 35%;
@@ -1833,9 +1834,11 @@ header .logo a {
     }
     #resume .timeline-header h3 {
         font-size: 1.8rem;
+        margin-left: 0.1rem;
     }
     #resume .timeline-header p {
         font-size: 1.4rem;
+        margin-left: 0.1rem;
     }
     #resume .timeline-content {
         padding-left: 50px;
